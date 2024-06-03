@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #99ccff;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #ccccff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  color: #3E7E7C;
+}
+
+h1 {
+  color: #3E7E7C;
+}
+
+#brawler-info {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+button {
+  padding: 25px 25px;
+  font-size: 18px;
+  background-color: #3E7E7C;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005960;
+}
+.brawler-image {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 10px;
+}
